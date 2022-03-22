@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70319985081",
+    "project_id": "mkbhdshop-f9832",
+    "storage_bucket": "mkbhdshop-f9832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70319985081:android:251c412f7b878ad2ac2668",
+        "android_client_info": {
+          "package_name": "com.example.mkbhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70319985081-8qfns1tl1vk35v6607dcvhfum2dtqb8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8F6V362-nBxSZgk-y-AU7qlkJkNA5cwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70319985081-8qfns1tl1vk35v6607dcvhfum2dtqb8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
